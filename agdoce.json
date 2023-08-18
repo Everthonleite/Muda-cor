@@ -1,0 +1,37 @@
+[
+    {"raca": "Tilapia",
+    "habitat": "águas lênticas de lagoas e represas",
+    "cor": "verde-oliva prateada, com sobras verticais negras. A cor da nadadeira dorsal também é verde-oliva, com uma linha vermelha e branca até cinza-escuro com pontos oblíquos.",
+    "isca": "a mais indicada é a minhoca “brava”",
+    "idade":"10 anos"
+
+    },
+    {"raca": "Carpa Comum",
+    "habitat": "Águas calmas de lagos e rios.",
+    "cor": "Varia, podendo ser dourada, prateada ou bronzeada.",
+    "isca": "Massa feita com ingredientes como farinha e milho.",
+    "idade":"Pode viver até 20 anos."
+
+    },
+    {"raca": "Bagre",
+    "habitat": "Fundo de rios e lagos.",
+    "cor": "Geralmente acinzentado ou marrom, com manchas escuras.",
+    "isca": "Peixes pequenos, minhocas ou iscas vivas.",
+    "idade":"Varia dependendo da espécie, mas muitos podem viver entre 15 e 20 anos."
+
+    },
+    {"raca": "Traíra",
+    "habitat": "Águas paradas, vegetadas e escuras.",
+    "cor": "Verde-oliva escuro com manchas escuras, camuflagem eficaz.",
+    "isca": "Iscas artificiais como plugs e spinnerbaits.",
+    "idade":"Pode viver até 7 anos."
+
+    },
+    {"raca": "Piabanha",
+    "habitat": "Riachos de águas rápidas e limpas.",
+    "cor": "Prateada com reflexos azulados, pequena e elegante.",
+    "isca": "Insetos aquáticos e pequenos peixes.",
+    "idade":"Geralmente vive de 5 a 7 anos."
+
+    }
+]

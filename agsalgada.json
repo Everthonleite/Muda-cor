@@ -1,0 +1,37 @@
+[
+    {
+        "raca": "Atum",
+        "habitat": "Águas oceânicas em alto-mar.",
+        "cor": "Azul escuro no dorso, prateado nas laterais.",
+        "isca": "Isca viva ou artificial que imite peixes menores.",
+        "idade": "Pode viver até 10 anos."
+    },
+    {
+        "raca": "Salmão",
+        "habitat": "Rios e mares do hemisfério norte.",
+        "cor": "Verde-oliva no dorso, prateado nas laterais, com manchas escuras.",
+        "isca": "Iscas artificiais ou iscas naturais como camarões.",
+        "idade": "Varia de acordo com a espécie, geralmente de 2 a 7 anos."
+    },
+    {
+        "raca": "Barracuda",
+        "habitat": "Águas costeiras tropicais e subtropicais.",
+        "cor": "Prateado com um corpo alongado e dentes afiados.",
+        "isca": "Isca viva ou artificial que imite peixes rápidos.",
+        "idade": "Pode viver até 14 anos."
+    },
+    {
+        "raca": "Robalo",
+        "habitat": "Águas rasas perto da costa, como estuários e manguezais.",
+        "cor": "Verde-oliva ou marrom com manchas escuras ou listras.",
+        "isca": "Iscas artificiais que imitam peixes menores ou camarões.",
+        "idade": "Varia, muitas espécies podem viver de 5 a 10 anos."
+    },
+    {
+        "raca": "Dourado",
+        "habitat": "Águas quentes de regiões tropicais e subtropicais.",
+        "cor": "Amarelo-dourado com reflexos azuis, corpo alto e mandíbula proeminente.",
+        "isca": "Isca artificial de superfície imitando peixes menores.",
+        "idade": "Pode viver até 5 anos."
+    }
+]

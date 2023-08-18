@@ -1,0 +1,37 @@
+[
+    {
+        "espécie": "Leão",
+        "habitat": "Savanas e áreas de vegetação densa na África.",
+        "cor": "Pelagem dourada com o macho possuindo uma juba ao redor da cabeça.",
+        "alimentação": "Carnívoro, caça principalmente grandes ungulados.",
+        "expectativa_de_vida": "Varia de 10 a 14 anos na natureza."
+    },
+    {
+        "espécie": "Urso Panda",
+        "habitat": "Florestas de bambu nas montanhas da China.",
+        "cor": "Pelagem branca e preta, com manchas nos olhos e orelhas.",
+        "alimentação": "Principalmente herbívoro, com uma dieta baseada em bambu.",
+        "expectativa_de_vida": "Em média, vive de 20 a 30 anos em cativeiro."
+    },
+    {
+        "espécie": "Golfinho-comum",
+        "habitat": "Águas oceânicas e costeiras em várias partes do mundo.",
+        "cor": "Geralmente cinza, com uma forma hidrodinâmica e barbatana dorsal distintiva.",
+        "alimentação": "Carnívoro, se alimenta principalmente de peixes e lulas.",
+        "expectativa_de_vida": "Pode viver de 40 a 50 anos, dependendo da espécie."
+    },
+    {
+        "espécie": "Elefante Africano",
+        "habitat": "Savanas, florestas e áreas arborizadas da África.",
+        "cor": "Pele grossa e cinza, com orelhas grandes e presas curvas.",
+        "alimentação": "Herbívoro, se alimenta de uma variedade de plantas e folhagens.",
+        "expectativa_de_vida": "Pode viver de 60 a 70 anos, sendo um dos mamíferos terrestres mais longevos."
+    },
+    {
+        "espécie": "Orangotango",
+        "habitat": "Florestas tropicais da Sumatra e Bornéu.",
+        "cor": "Pelagem predominantemente laranja ou marrom, com braços longos.",
+        "alimentação": "Principalmente frugívoro, mas também consome folhas e insetos.",
+        "expectativa_de_vida": "Em média, vive de 30 a 40 anos na natureza."
+    }
+]

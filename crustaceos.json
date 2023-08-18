@@ -1,0 +1,37 @@
+[
+    {
+        "raca": "Caranguejo Azul",
+        "habitat": "Costas rochosas e arenosas, preferencialmente em águas salinas.",
+        "cor": "Casco azul-acinzentado e garras avermelhadas.",
+        "iscas": "Algas, pequenos animais e detritos marinhos.",
+        "idade": "Podem viver até 10 anos."
+    },
+    {
+        "raca": "Lagostim de Água Doce",
+        "habitat": "Rios e lagos de água doce com fundo de lodo ou areia.",
+        "cor": "Cores variadas, de marrom a verde, com garras vermelhas.",
+        "iscas": "Pequenos organismos aquáticos, plantas e detritos.",
+        "idade": "Podem viver até 5 anos."
+    },
+    {
+        "raca": "Caranguejo Eremita",
+        "habitat": "Zonas costeiras, vivem em conchas vazias para se protegerem.",
+        "cor": "Corpo mole e assimétrico, variando de cores, muitas vezes com anêmonas.",
+        "iscas": "Algas, detritos e ocasionalmente pequenos animais.",
+        "idade": "Podem viver até 15 anos."
+    },
+    {
+        "raca": "Camarão de Água Doce",
+        "habitat": "Rios e lagos de água doce com vegetação aquática.",
+        "cor": "Transparente, muitas vezes com tons de verde ou marrom.",
+        "iscas": "Detritos, pequenos organismos e algas.",
+        "idade": "Podem viver até 2 anos."
+    },
+    {
+        "raca": "Caranguejo Violinista",
+        "habitat": "Zonas de manguezal e áreas lodosas perto de água salobra.",
+        "cor": "Casco quadrado e largo, variando de cores como marrom e verde.",
+        "iscas": "Detritos, microrganismos e pequenos animais.",
+        "idade": "Podem viver até 3 anos."
+    }
+]
